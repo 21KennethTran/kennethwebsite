@@ -12,7 +12,7 @@ const Hero = () => {
         </p>
         <div className='Buttons'>
           <a href="mailto:kenpt03@gmail.com" className='ContactBtn'>Contact Me!</a>
-          <a href="mailto:kenpt03@gmail.com" className='ContactBtn'>Resume</a>
+          <a href="https://drive.google.com/file/d/1-ftx_VQAGUt0t60es2oCdNZzgveWjoOI/view?usp=sharing" className='ContactBtn'>Resume</a>
         </div>
       </div>
       <img src={thinking} alt="Hero me" className='HeroImg'/>
