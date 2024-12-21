@@ -1,0 +1,31 @@
+[
+    {
+        "role": "SWE Intern",
+        "organization": "TRACT",
+        "startDate": "July 2023",
+        "endDate": "October 2023",
+        "experiences": ["Developed and implemented web scraping services for human due diligence software in Python",
+                        "Utilized Natural Language Processing and Selenium to gauge individuals social media activity score",
+                        "Maintained and updated services utilizing APIs and RSS Feeds, doubling data throughput"],
+        "imageSrc": ""
+    },
+    {
+        "role": "Embedded SWE Intern",
+        "organization": "UC San Diego",
+        "startDate": "March 2023",
+        "endDate": "June 2023",
+        "experiences": ["Developed code module in C/C++ using Arduino IDE for 25 ESP32 boards to scan over 4 million Bluetooth devices and transmit approximately 5 megabytes of data to a server via Wi-Fi daily",
+                        "Designed RESTful API in Python to process data from ESP boards and handle data storage to SQL database",
+                        "Constructed an interactive website using JavaScript, HTML/CSS to display density data with a slider interface"],
+        "imageSrc": ""
+    },
+    {
+        "role": "MATLAB Tutor",
+        "organization": "UC San Diego",
+        "startDate": "September 2023",
+        "endDate": "Present",
+        "experiences": ["Tutored students in linear algebra and differential equations classes and providing guidance on MATLAB usage",
+                        "Coordinated with professors , teaching assistants, and other tutors to fairly grade assignments and proctor tests"],
+        "imageSrc": ""
+    }
+]

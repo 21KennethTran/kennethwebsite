@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Successorator",
+        "imageSrc": "bleh",
+        "description": "Android app to streamline process of tracking goals.",
+        "skills": ["Java", "Kotlin", "Android Studio", "JUnit"],
+        "demo": "bleh",
+        "source": "https://github.com/21KennethTran/successorator"
+    },
+    {
+        "title": "Recommender System for Hawaii Businesses",
+        "imageSrc": "bleh",
+        "description": "Exploring common models for recommending Hawaii businesses",
+        "skills": ["Python", "Machine Learning"],
+        "demo": "bleh",
+        "source": "https://github.com/21KennethTran/HawaiiRecommender"
+    },
+    {
+        "title": "You Lost It",
+        "imageSrc": "bleh",
+        "description": "Improved Apple Air tag functionalities for lost items",
+        "skills": ["C/C++", "Firmware", "Embedded Systems", "STM32"],
+        "demo": "bleh",
+        "source": "https://github.com/21KennethTran/youlostit"
+    },
+    {
+        "title": "Finance Web Scrapers",
+        "imageSrc": "bleh",
+        "description": "Financial data scraping and preprocessing for investors",
+        "skills": ["Python", "Javascript", "HTML", "CSS", "CyberSecurity"],
+        "demo": "bleh",
+        "source": "https://github.com/21KennethTran/OpenCorporatesScraper"
+    }
+]
