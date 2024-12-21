@@ -20,7 +20,7 @@ const Contact = () => {
             src={linkedinIcon}
             alt="LinkedIn icon"
           />
-          <a href="https://www.linkedin.com/kenneth-tran-ba708b222">linkedin.com/kenneth-tran-ba708b222</a>
+          <a href="https://www.linkedin.com/in/kenneth-tran-ba708b222">linkedin.com/in/kenneth-tran-ba708b222</a>
         </li>
         <li className='FooterLink'>
           <img src={githubIcon} alt="Github icon" />
